@@ -34,6 +34,7 @@ function AddPatient(){
 
         return (
         <>
+        
         <div className="container">
                 <h2>Create Patient:</h2>
                 <form onSubmit={e => { e.preventDefault(); }}>
