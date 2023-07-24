@@ -1,0 +1,9 @@
+/Users/kashyapchaganti/Documents/Development/Spring/clinicalsapi/src/main/java/com/kashyap/clinicals/model/Patient.java
+/Users/kashyapchaganti/Documents/Development/Spring/clinicalsapi/src/main/java/com/kashyap/clinicals/controllers/ClinicalDataController.java
+/Users/kashyapchaganti/Documents/Development/Spring/clinicalsapi/src/main/java/com/kashyap/clinicals/repos/PatientRepository.java
+/Users/kashyapchaganti/Documents/Development/Spring/clinicalsapi/src/main/java/com/kashyap/clinicals/repos/ClinicalDataRepository.java
+/Users/kashyapchaganti/Documents/Development/Spring/clinicalsapi/src/main/java/com/kashyap/clinicals/util/BMICalculator.java
+/Users/kashyapchaganti/Documents/Development/Spring/clinicalsapi/src/main/java/com/kashyap/clinicals/ClinicalsapiApplication.java
+/Users/kashyapchaganti/Documents/Development/Spring/clinicalsapi/src/main/java/com/kashyap/clinicals/model/ClinicalData.java
+/Users/kashyapchaganti/Documents/Development/Spring/clinicalsapi/src/main/java/com/kashyap/clinicals/controllers/PatientController.java
+/Users/kashyapchaganti/Documents/Development/Spring/clinicalsapi/src/main/java/com/kashyap/clinicals/dto/ClinicalDataRequest.java
